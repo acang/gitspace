@@ -1,0 +1,28 @@
+a:link {
+	color: #4567AB; text-decoration: underline! important
+}
+a:visited {
+	color: #4567AB; text-decoration: underline! important
+}
+a:hover {
+	color: #000000! important; text-decoration: underline! important
+}
+a.navbar {
+	color: #4567AB; text-decoration: underline! important
+}
+
+.font10 {
+      font-size:13px;
+}
+.font12 {
+      font-size:14px;
+}
+
+.font16 {
+       font-size:20px;
+}
+.input1 {
+	border-top: #665b8e 1px solid; border-bottom: #665b8e 1px solid; border-left: #665b8e 1px solid; border-right: #665b8e 1px solid;
+	padding-top: 2px; padding-bottom: 0px; padding-left: 1px; padding-right: 1px; background-color: #ffffff; height: 18px;
+	font-size: 10px; font-family: "ms shell dlg", "tahoma", "??"
+}

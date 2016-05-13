@@ -1,0 +1,70 @@
+#banner {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 5px 0px 0px; PADDING-TOP: 0px; TEXT-ALIGN: center
+}
+#bottom {
+	MARGIN-TOP: 10px; MARGIN-BOTTOM: 20px; MARGIN-LEFT: 0px; POSITION: relative; TEXT-ALIGN: left
+}
+#top5a {
+	PADDING-RIGHT: 0px; MARGIN-TOP: -592px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN-LEFT: -30px; WIDTH: auto; PADDING-TOP: 0px; POSITION: relative; TEXT-ALIGN: left
+}
+#top5a IMG {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; WIDTH: 88px; HEIGHT: 104px; BORDER-RIGHT-WIDTH: 0px
+}
+#top5a LI {
+	FLOAT: left; MARGIN-LEFT: 5px; LINE-HEIGHT: 1.5em; MARGIN-RIGHT: 5px
+}
+#top5a H5 {
+	MARGIN-TOP: 5px; FONT-WEIGHT: normal; FONT-SIZE: 12px; MARGIN-BOTTOM: 2px; TEXT-ALIGN: center
+}
+#top5b {
+	PADDING-RIGHT: 0px; MARGIN-TOP: 210px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN-LEFT: -30px; WIDTH: auto; PADDING-TOP: 0px; POSITION: relative; TEXT-ALIGN: left
+}
+#top5b IMG {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; WIDTH: 88px; HEIGHT: 104px; BORDER-RIGHT-WIDTH: 0px
+}
+#top5b LI {
+	FLOAT: left; MARGIN-LEFT: 5px; LINE-HEIGHT: 1.5em; MARGIN-RIGHT: 5px
+}
+#top5b H5 {
+	MARGIN-TOP: 5px; FONT-WEIGHT: normal; FONT-SIZE: 12px; MARGIN-BOTTOM: 0px; TEXT-ALIGN: center
+}
+#top5b H6 {
+	MARGIN-TOP: 0px; FONT-WEIGHT: normal; FONT-SIZE: 11px; MARGIN-BOTTOM: 2px; TEXT-ALIGN: center
+}
+#top5c {
+	PADDING-RIGHT: 0px; MARGIN-TOP: 420px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN-LEFT: -30px; WIDTH: auto; PADDING-TOP: 0px; POSITION: relative; TEXT-ALIGN: left
+}
+#top5c IMG {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; WIDTH: 88px; HEIGHT: 104px; BORDER-RIGHT-WIDTH: 0px
+}
+#top5c LI {
+	FLOAT: left; MARGIN-LEFT: 5px; LINE-HEIGHT: 1.5em; MARGIN-RIGHT: 5px
+}
+#top5c H5 {
+	MARGIN-TOP: 5px; FONT-WEIGHT: normal; FONT-SIZE: 12px; MARGIN-BOTTOM: 0px; TEXT-ALIGN: center
+}
+#top5c H6 {
+	MARGIN-TOP: 0px; FONT-WEIGHT: normal; FONT-SIZE: 11px; MARGIN-BOTTOM: 2px; TEXT-ALIGN: center
+}
+#linkpic {
+	PADDING-RIGHT: 0px; MARGIN-TOP: -11px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN-LEFT: 13px; WIDTH: auto; PADDING-TOP: 0px; POSITION: relative; TEXT-ALIGN: left
+}
+#linkpic IMG {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; WIDTH: 120px; HEIGHT: 40px; BORDER-RIGHT-WIDTH: 0px
+}
+#linkpic LI {
+	MARGIN-TOP: 5px; FLOAT: left; MARGIN-BOTTOM: 2px; LINE-HEIGHT: 1.5em
+}
+#linktxt {
+	MARGIN-TOP: 0px; MARGIN-BOTTOM: -15px; TEXT-ALIGN: center
+}
+#linktxt LI {
+	DISPLAY: inline; MARGIN: 0px 3px
+}
+/*------------- 新增加样式 --------------*/
+.banner{padding:0; margin:0 auto; margin-top:5px; text-align:center; width:1002px;}
+.main{width:936px; margin:0 auto;}
+.left{width:160px;
+      float:left;}
+.middle{margin:0 5px; float:left; width:620px; background:url(zw03.gif);}
+.right{width:146px; float:left;}

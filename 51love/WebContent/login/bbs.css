@@ -1,0 +1,89 @@
+
+A:visited {
+	TEXT-DECORATION: none;color:#003366
+}
+A:active {
+	TEXT-DECORATION: none;color:#000000
+}
+A:hover {
+	TEXT-DECORATION: underline;color:#0000FF
+}
+A:link {
+	TEXT-DECORATION: none;color:#0033CC
+}
+A.cancel:visited {
+	TEXT-DECORATION: none;color:red
+}
+A.cancel:active {
+	TEXT-DECORATION: none;color:red
+}
+A.cancel:hover {
+	TEXT-DECORATION: underline;color:red
+}
+A.cancel:link {
+	TEXT-DECORATION: none;color:red
+}
+A.user:visited {
+	TEXT-DECORATION: none;color:#ffffff
+}
+A.user:active {
+	TEXT-DECORATION: none;color:#ffffff
+}
+A.user:hover {
+	TEXT-DECORATION: underline;color:#ffffFF
+}
+A.user:link {
+	TEXT-DECORATION: none;color:#ffffff
+}
+
+DIV {
+	FONT-SIZE: 9pt
+}
+FORM {
+	FONT-SIZE: 9pt
+}
+P {
+	FONT-SIZE: 9pt
+}
+TD {
+	FONT-SIZE: 9pt
+}
+.title {
+	font-size: 14pt;
+	font-weight: bold;
+}
+.p9 {
+	FONT-SIZE: 12px; LINE-HEIGHT: 120%
+}
+.div1 {
+	BORDER-RIGHT: windowframe 1px solid; BORDER-TOP: buttonface 1px solid; BORDER-LEFT: buttonface 1px solid; BORDER-BOTTOM: windowframe 1px solid
+}
+.div2 {
+	BORDER-RIGHT: buttonshadow 1px solid; BORDER-TOP: window 1px solid; BORDER-LEFT: window 1px solid; BORDER-BOTTOM: buttonshadow 1px solid
+}
+.Mover {
+	FONT-SIZE: 12px; CURSOR: default; COLOR: highlighttext;
+}
+.Mout {
+	FONT-SIZE: 12px; CURSOR: default; COLOR: buttontext;
+}
+.text {
+font-size: 14px;line-height: 30px;
+}
+.re{
+	font-size: 16px;
+	line-height: 30px;
+	font-family:"??им?_GB2312"
+}
+.red{
+color:#FF0000
+}
+.title_s {
+font-size:14px;color:#000000;line-height:17px;
+}
+.style5 {
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.b {font-size: 12px; font-weight: bold; }
+.style15 {font-size: 18px}

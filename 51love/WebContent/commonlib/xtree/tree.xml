@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="gb2312"?>
+<tree>
+  <tree text="部门1" src="generatetree" action="#" target="xtreeframe" />
+  <tree text="部门2" src="generatetree" action="#" target="xtreeframe" />
+  <tree text="部门3" src="generatetree" action="#" target="xtreeframe" />
+  <tree text="部门4" src="generatetree" action="#" target="xtreeframe" />
+  
+</tree>
+

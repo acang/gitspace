@@ -1,0 +1,14 @@
+FCKLang.MediaBtn = '插入视频';
+FCKLang.Media = '视频';
+FCKLang.MediaDlgTitle = '插入视频';
+FCKLang.MediaDlgName = '语言';
+FCKLang.MediaErrNoName = '请输入视频';
+FCKLang.MediaFile = '视频地址';
+FCKLang.MediaHeight = '视频高度';
+FCKLang.MediaWidth = '视频宽度';
+FCKLang.MediaPlay = '自动播放';
+FCKLang.MediaView = '视频预览';
+FCKLang.LocalMedia='本地视频';
+FCKLang.ServerMedia='服务器视频';
+FCKLang.Yes='是';
+FCKLang.No='否';

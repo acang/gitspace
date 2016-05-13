@@ -1,0 +1,195 @@
+.IPTitle {
+	font-family: "宋体", "黑体", sans-serif;
+	font-size: 10pt;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+	background-image: url(images/TDtitle.gif);
+	height: 28px;
+	padding-left: 5px;
+	letter-spacing: 2px;
+}
+.IPPannel {
+	border: 1px solid #285193;
+}
+td {
+	font-family: "宋体", "黑体", sans-serif;
+	font-size: 12px;
+	color: #333333;
+	text-decoration: none;
+}
+.textbox {
+	font-family: "宋体", "黑体", sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+	background-color: #E8F5FD;
+	border: 1px solid #284F71;
+	display: inline-table;
+	height: 18px;
+}
+.btn {
+	font-family: "宋体", "黑体", sans-serif;
+	font-size: 13px;
+	color: #000000;
+	text-decoration: none;
+	background-color: #FEDCA3;
+	border: 1px solid #333333;
+	padding: 2px;
+}
+.tdTitle {
+	font-family: "宋体", "黑体", sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+	background-repeat: repeat-x;
+	background-position: center center;
+	height: 21px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-right-color: #BBBDBB;
+	border-left-color: #FFFFFF;
+	border-top-color: #63727A;
+	background-color: #6CADE8;
+	border-bottom-color: #BDBEBD;
+}
+.tdTitle a:link{
+	color: #FFFFFF;
+	text-decoration: none;
+	padding: 2px 4px;
+	font-weight: bold;
+}
+.tdTitle a:visited
+{
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: bold;
+}
+.tdTitle a:hover
+{
+	color: #00CCFF;
+	background-color: #003399;
+	padding-top: 1px;
+	padding-right: 4px;
+	padding-bottom: 1px;
+	padding-left: 4px;
+	font-weight: bold;
+}
+.Row1 td{
+	font-family: "宋体", "黑体", sans-serif;
+	font-size: 12px;
+	color: #333333;
+	background-color: #FFFFFF;
+	padding: 1px;
+	height: 22px;
+	border-top-width: 0px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-top-color: #999999;
+	border-right-color: #999999;
+	border-bottom-color: #999999;
+	border-left-color: #FFFFFF;
+}
+.Row2 td {
+	font-family: "宋体", "黑体", sans-serif;
+	font-size: 12px;
+	color: #333333;
+	text-decoration: none;
+	background-color: #F4F9FF;
+	padding: 1px;
+	height: 22px;
+	border-top-width: 0px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-top-color: #999999;
+	border-right-color: #999999;
+	border-bottom-color: #999999;
+	border-left-color: #FFFFFF;
+}
+.Rowsum td {
+	font-family: "宋体", "黑体", sans-serif;
+	font-size: 12px;
+	color: #333333;
+	text-decoration: none;
+	background-color: #8ECBE6;
+	padding: 1px;
+	height: 22px;
+	border-top-width: 0px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-top-color: #999999;
+	border-right-color: #999999;
+	border-bottom-color: #999999;
+	border-left-color: #FFFFFF;
+}
+.imgiput {
+	display: inline-table;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #284F71;
+	border-right-color: #284F71;
+	border-bottom-color: #284F71;
+	border-left-color: #284F71;
+}
+.datainput {
+	display: inline;
+}
+.listpannel {
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 1px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-top-color: #999999;
+	border-right-color: #999999;
+	border-bottom-color: #999999;
+	border-left-color: #999999;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-right: 5px;
+	margin-left: 5px;
+	background-color: #2679BD;
+}
+a:link {
+	color: #003366;
+	text-decoration: none;
+}
+a:visited {
+	color: #003366;
+	text-decoration: none;
+}
+a:hover {
+	color: #FF0000;
+	text-decoration: underline;
+}

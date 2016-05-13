@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="gb2312" ?>
+    <!--环境配置-->
+
+
+
+<root>
+  <annexpath>upload\hyimg</annexpath>
+  <requestgetcode></requestgetcode>
+  <title>51</title>
+
+</root>
